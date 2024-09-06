@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/MrL872/swagger-ui-xss/main/xss-fetch.yaml",
+    "url": "https://raw.githubusercontent.com/MrL872/nuclei-template-for-swagger-ui-xss/main/xss-fetch.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/MrL872/swagger-ui-xss/main/xss-fetch.yaml",
+            "url": "https://raw.githubusercontent.com/MrL872/nuclei-template-for-swagger-ui-xss/main/xss-fetch.yaml",
             "name": "XSS payload"
         }
     ]
